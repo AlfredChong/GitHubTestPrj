@@ -4,3 +4,4 @@ Modify from Eclipse... Hello...
 To view the changes after commit & push... either by click on the success link or reload the web Browser by click on the parent link/branch link
 
 Using SSH to commit instead HTTPS
+REmove all alternate GIT client
